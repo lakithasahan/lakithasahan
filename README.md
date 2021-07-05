@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AR based data science dashboard application.
+- 🔭 I’m currently working on Trading Bot application.
 - 🌱 I’m currently learning deep learning based image processing technics.
 - 👯 I’m looking to collaborate on any machine learning based project.
 - 💬 Ask me about anything....
